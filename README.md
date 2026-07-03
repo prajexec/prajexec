@@ -1,15 +1,19 @@
-# 
+<p align="center">
+  <!-- The King's Engine Pulse - Scaled to full container width -->
+  <img src="music-video-animation-gif-by-mattisdovier-find-share-on-giph.gif" width="100%" />
+</p>
 
-```assembly
-[SYS_INIT]  IDENTIFIER      : Priyanshu[cite: 1]
-[SYS_LOC]   COORDINATES     : New Delhi, India[cite: 1]
-[SYS_CORE]  FIRMWARE        : B.Tech / Automation & Robotics[cite: 1]
+```text
+[SYS_INIT]  IDENTIFIER      : Priyanshu
+[SYS_LOC]   COORDINATES     : New Delhi, India
+[SYS_CORE]  FIRMWARE        : B.Tech / Automation & Robotics
 
 ; --- Active Register Stacks ---
-REG_PREV:   [ UPPTCL_Automation_Intern ] [ Multi_Tenant_CRM ] [ AI_Gym_Assistant ] [ Streamify_RealTime_App ][cite: 1]
-REG_EXEC:   [ Next.js ] [TypeScript] [ React ] [ Node.js ] [ Express ] [ MongoDB ][cite: 1]
-REG_FREQ:   [ C++ ] [ C# ] [ JavaScript ] [ SQL ] [Python] [ SCADA_Telemetry ][cite: 1]
+REG_PREV:   [ UPPTCL_Automation_Intern ] [ AI_Precision_Farming_Publication ] 
+REG_EXEC:   [ Next.js ] [ TypeScript ] [ React ] [ Node.js ] [ Express ] [ MongoDB ]
+REG_FREQ:   [ C++ ] [ C# ] [ JavaScript ] [ SQL ] [ Python ] [ SCADA_Telemetry ]
 
 ; --- Background Threads ---
-THREAD_0:   AI_Precision_Farming_Publication[cite: 1]
-THREAD_1:   Doomscroller // Art // Music
+THREAD_0:   [ Doomscroller ] 
+THREAD_1:   [ Art ]
+THREAD_2:   [ Music ]
