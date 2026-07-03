@@ -1,16 +1,15 @@
-## Hi there 👋
+# 
 
-<!--
-**prajexec/prajexec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```assembly
+[SYS_INIT]  IDENTIFIER      : Priyanshu[cite: 1]
+[SYS_LOC]   COORDINATES     : New Delhi, India[cite: 1]
+[SYS_CORE]  FIRMWARE        : B.Tech / Automation & Robotics[cite: 1]
 
-Here are some ideas to get you started:
+; --- Active Register Stacks ---
+REG_PREV:   [ UPPTCL_Automation_Intern ] [ Multi_Tenant_CRM ] [ AI_Gym_Assistant ] [ Streamify_RealTime_App ][cite: 1]
+REG_EXEC:   [ Next.js ] [TypeScript] [ React ] [ Node.js ] [ Express ] [ MongoDB ][cite: 1]
+REG_FREQ:   [ C++ ] [ C# ] [ JavaScript ] [ SQL ] [Python] [ SCADA_Telemetry ][cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+; --- Background Threads ---
+THREAD_0:   AI_Precision_Farming_Publication[cite: 1]
+THREAD_1:   Doomscroller // Art // Music
